@@ -1,0 +1,28 @@
+<taglib>
+	<tlib-version>1.0</tlib-version>
+	<jsp-version>2.0</jsp-version>
+	<short-name>My Custom Tag</short-name>
+	<tag>
+		<name>mymsg</name>
+		<tag-class>com.pgr.jsp.Message</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+	<tag>
+		<name>mymsg1</name>
+		<tag-class>com.pgr.jsp.Message</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+
+	<tag>
+		<name>mymsg2</name>
+		<tag-class>com.pgr.jsp.Message</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+
+
+	<tag>
+		<name>mymsg3</name>
+		<tag-class>com.pgr.jsp.Message</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+</taglib>
